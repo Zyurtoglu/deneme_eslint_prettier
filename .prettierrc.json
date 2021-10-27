@@ -1,0 +1,10 @@
+{
+   
+    "singleQuote" :false,
+
+    "error":
+            {
+                "endOfLine": "auto"
+            }
+  
+  }
