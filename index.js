@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-let msj = "selam";
+let msj = "selammmmm!!!";
 console.log(msj);
 let a = 5;
 
